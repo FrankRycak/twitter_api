@@ -1,3 +1,4 @@
+```
 # TwitterApi
 
 TwitterApi is a simple program that returns values in Twitter that belong to the input that the user enters.
@@ -49,3 +50,4 @@ This is the result of me messing with Twitter api just for fun and to get a bett
            |                       \
           |@@@@@@@@@@@@@@@@@@@@@@@@@|
           __________________________|
+```
